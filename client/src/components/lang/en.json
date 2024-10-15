@@ -1,0 +1,66 @@
+{
+    "navBar": {
+        "navItems": [
+            "home",
+            "add device",
+            "wishList",
+            "my devices"
+        ],
+        "profile": [
+            "Profile",
+            "settings",
+            "sign out"
+        ]
+    },
+    "home": {
+        "title": "Materials",
+        "button": "Exchange",
+        "pagination": [
+            "previous",
+            "next"
+        ]
+    },
+    "addDevice": {
+        "title": "add device",
+        "inputTitle": [
+            "Device Name",
+            "Device description",
+            "Phone Number",
+            "Device image"
+        ],
+        "button": "Post"
+    },
+    "wishlist": {
+        "title": "wishlist",
+        "button":"Exchange"
+    },
+    "myDevices": {
+        "title": "my devices",
+        "button": [
+            "delete",
+            "update"
+        ]
+    },
+    "viewProfile":[
+        "Welcome to your Profile",
+        ["WishList","All Materials","My Materials"],
+        "cancel"
+    ],
+    "changeLang":[
+        "choose Language",
+        ["English","Arabic"],
+        ["cancel","submit"]
+    ],
+    "upProduct":[
+        "Update Your Product",
+        ["Your Device Name","Your Device Description","Your phone Number"],
+        "update"
+    ],
+    "exchange":[
+        "Personal Information",
+        "Name",
+        "Phone Number",
+        "Email",
+        "ville"
+    ]
+}
