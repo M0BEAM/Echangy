@@ -2,7 +2,6 @@
 
 ![Echangy Logo](./echangy.png)
 
-
 Echangy is your go-to platform for seamless device and item exchanges across Tunisia. Whether it's upgrading your phone, trading in your laptop, or swapping books, Echangy simplifies it all.
 
 ## Features
@@ -39,3 +38,5 @@ We welcome contributions to improve Echangy. Feel free to submit pull requests o
 ## License
 
 This project is licensed under the [MIT License].
+
+Visit the live app at: [Echangy](https://echangy.netlify.app/)
