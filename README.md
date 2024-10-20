@@ -26,7 +26,7 @@ Echangy is your go-to platform for seamless device and item exchanges across Tun
 1. Clone the repository.
 2. Install dependencies using `npm install`.
 3. Set up MongoDB.
-4. Run the application using `npm start`.
+4. Run the application using `npm run dev`.
 
 ## Usage
 
